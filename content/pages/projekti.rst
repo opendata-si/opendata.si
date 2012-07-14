@@ -5,3 +5,4 @@ Projekti
 - `<http://www.delajozate.si/>`_ -- Uporabna interpretacija www.dz-rs.si
 - `<http://www.trola.si>`_ -- Napoved prihodov LPP avtobusov
 - `<https://github.com/zejn/prometapi>`_ -- API za prometne podatke (parkirisca, bicikelj, burja, stanje na cestah, ...)
+- `<https://github.com/zejn/arsoapi>`_ -- API za vremenske podatke iz www.arso.si
