@@ -9,7 +9,7 @@ Install
     cd opendata.si
     virtualenv --no-site-packages .
     source bin/activate
-    pip install pelican
+    pip install pelican ghp-import
 
 Generate website
 ================
@@ -23,4 +23,4 @@ Deploy
 
 ::
 
-    rsync -avz --delete output/ <user>@<server>:/var/www/<blog>
+    rsync -avz --delete output/ dogbert:/home/hruske/opendata/www/
