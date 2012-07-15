@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>opendata.si</title><link href="/" rel="alternate"></link><link href="//feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2012-07-15T15:06:56+02:00</updated><entry><title></title><link href="//.html" rel="alternate"></link><updated>2012-07-15T15:06:56+02:00</updated><author><name>skupnost</name></author><id>//.html</id><summary type="html">&lt;p&gt;Contains website for opendata.si&lt;/p&gt;
+&lt;div class="section" id="install"&gt;
+&lt;h2&gt;Install&lt;/h2&gt;
+&lt;pre class="literal-block"&gt;
+git clone https://github.com/iElectric/opendata.si.git
+cd opendata.si
+virtualenv --no-site-packages .
+source bin/activate
+pip install pelican ghp-import
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="generate-website"&gt;
+&lt;h2&gt;Generate website&lt;/h2&gt;
+&lt;pre class="literal-block"&gt;
+pelican -s pelican.conf.py
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="deploy"&gt;
+&lt;h2&gt;Deploy&lt;/h2&gt;
+&lt;pre class="literal-block"&gt;
+rsync -avz --delete output/ dogbert:/home/hruske/opendata/www/
+&lt;/pre&gt;
+&lt;/div&gt;
+</summary></entry></feed>
