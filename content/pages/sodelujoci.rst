@@ -7,3 +7,4 @@ Sodelujoči
 - `Marko Samastur <http://markos.gaivo.net/>`_
 - `Marko Mrdjenovič <http://twitter.com/friedcell>`_
 - `Jure Čuhalev <http://www.cuhalev.com/>`_
+- `Miha Rekar <http://mr.si/>`_
