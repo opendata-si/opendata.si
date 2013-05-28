@@ -9,10 +9,15 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'sl'
 DEFAULT_PAGINATION = False
 
+# we have only one big page
+DISPLAY_MENU = False
+
+
+THEME = "theme/"
 
 # Notmyidea theme extras
 #TWITTER_USERNAME = ""
-GITHUB_URL = "https://github.com/iElectric/opendata.si/"
+GITHUB_URL = "https://github.com/opendata-si/opendata.si/"
 LINKS = (
 #    ('You can modify those links in your config file', '#'),
 )
