@@ -30,7 +30,7 @@ Sodelujoči
 - `Domen Kožar <http://www.domenkozar.com>`_
 - `Marko Samastur <http://markos.gaivo.net/>`_
 - `Marko Mrdjenovič <http://twitter.com/friedcell>`_
-- `Jure Čuhalev <http://www.cuhalev.com/>`_
+- `Jure Čuhalev <http://www.jurecuhalev.com/blog/>`_
 - `Miha Rekar <http://mr.si/>`_
 
 |br|
