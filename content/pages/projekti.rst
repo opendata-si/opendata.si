@@ -40,4 +40,4 @@ Kontakt
 =======
 
 Želiš dodati svoj projekt na seznam? Ali pa mogoče posredovati informacijo o prosto dostopnih podatkih, ki bi mogoce bili primerni za nov projekt?
-info@opendata.si
+podatki@lists.kiberpipa.org
