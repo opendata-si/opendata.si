@@ -39,8 +39,7 @@ Sodelujoči
 Kontakt
 =======
 
-Želiš dodati svoj projekt na seznam? Ali pa mogoče posredovati informacijo o prosto dostopnih podatkih, ki bi mogoce bili primerni za nov projekt?
-podatki@lists.kiberpipa.org
+Želiš dodati svoj projekt na seznam? Ali pa mogoče posredovati informacijo o prosto dostopnih podatkih, ki bi mogoce bili primerni za nov projekt? Vabljen, da se nam pridružiš na poštnem seznamu podatki@lists.kiberpipa.org. Prijaviš se lahko `preko spleta <https://lists.kiberpipa.org/mailman/listinfo/podatki>`.
 
 |br|
 
@@ -70,3 +69,4 @@ Drugo
 
 - `Festivals in Slovenia 2012 <http://www.culture.si/en/Festivals_in_Slovenia_2012>`_
 - `Social network diagrams of Slovenian governments between 1991 and 2013 <http://virostatiq.com/social-network-diagrams-of-slovenian-governments-between-2001-and-2013/>`_
+
