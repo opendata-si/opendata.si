@@ -39,7 +39,7 @@ Sodelujoči
 Kontakt
 =======
 
-Želiš dodati svoj projekt na seznam? Ali pa mogoče posredovati informacijo o prosto dostopnih podatkih, ki bi mogoce bili primerni za nov projekt? Vabljen, da se nam pridružiš na poštnem seznamu podatki@lists.kiberpipa.org. Prijaviš se lahko `preko spleta <https://lists.kiberpipa.org/mailman/listinfo/podatki>`.
+Želiš dodati svoj projekt na seznam? Ali pa mogoče posredovati informacijo o prosto dostopnih podatkih, ki bi mogoce bili primerni za nov projekt? Vabljen, da se nam pridružiš na poštnem seznamu podatki@lists.kiberpipa.org. Prijaviš se lahko `preko spleta <https://lists.kiberpipa.org/mailman/listinfo/podatki>`_.
 
 |br|
 
