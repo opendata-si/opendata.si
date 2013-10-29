@@ -39,8 +39,7 @@ Sodelujoči
 Kontakt
 =======
 
-Želiš dodati svoj projekt na seznam? Ali pa mogoče posredovati informacijo o prosto dostopnih podatkih, ki bi mogoce bili primerni za nov projekt?
-podatki@lists.kiberpipa.org
+Želiš dodati svoj projekt na seznam? Ali pa mogoče posredovati informacijo o prosto dostopnih podatkih, ki bi mogoce bili primerni za nov projekt? Vabljen, da se nam pridružiš na poštnem seznamu podatki@lists.kiberpipa.org. Prijaviš se lahko `preko spleta <https://lists.kiberpipa.org/mailman/listinfo/podatki>`_.
 
 |br|
 
@@ -78,3 +77,4 @@ Državne baze podatkov
 
 * `NIO - nacionalni interoperabilnostni okvir <http://nio.gov.si/nio/data/>`_
 * `Statistični urad Republike Slovenije <http://www.stat.si/>`_
+
