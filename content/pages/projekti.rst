@@ -17,7 +17,7 @@ Projekti
 - `<https://github.com/opendata-si/trola.si>`_ -- Napoved prihodov LPP avtobusov - http://www.trola.si/
 - `<https://github.com/mrfoto/bonar>`_ -- Ponudniki študentske prehrane na zemljevidu - http://www.bonar.si/
 - `<https://github.com/zejn/prometapi>`_ -- JSON API za nekatere prometne podatke, dostopne z različnih virov (parkirišča, bicikelj, burja, stanje na cestah)
-- `<https://github.com/zejn/arsoapi>`_ -- Geolokacijsko podprti JSON API za vremenske podatke, prebrane s strani ARSO - http://www.arso.gov.si
+- `<https://github.com/zejn/arsoapi>`_ -- Geolokacijsko podprti JSON API za vremenske podatke, prebrane s strani `ARSO <http://www.arso.gov.si>`__
 
 |br|
 
@@ -69,4 +69,12 @@ Drugo
 
 - `Festivals in Slovenia 2012 <http://www.culture.si/en/Festivals_in_Slovenia_2012>`_
 - `Social network diagrams of Slovenian governments between 1991 and 2013 <http://virostatiq.com/social-network-diagrams-of-slovenian-governments-between-2001-and-2013/>`_
+
+|br|
+
+Državne baze podatkov
+======================
+
+* `NIO - nacionalni interoperabilnostni okvir <http://nio.gov.si/nio/data/>`_
+* `Statistični urad Republike Slovenije <http://www.stat.si/>`_
 
