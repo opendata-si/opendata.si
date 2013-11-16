@@ -32,6 +32,7 @@ Sodelujoči
 - `Marko Mrdjenovič <http://twitter.com/friedcell>`_
 - `Jure Čuhalev <http://www.jurecuhalev.com/blog/>`_
 - `Miha Rekar <http://mr.si/>`_
+- `Jernej Virag <https://www.virag.si/>`_
 
 |br|
 
