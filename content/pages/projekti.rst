@@ -71,6 +71,12 @@ Drugo
 - `Festivals in Slovenia 2012 <http://www.culture.si/en/Festivals_in_Slovenia_2012>`_
 - `Social network diagrams of Slovenian governments between 1991 and 2013 <http://virostatiq.com/social-network-diagrams-of-slovenian-governments-between-2001-and-2013/>`_
 
+Slovenščina
+-----------
+
+- `Solr Slovenian Lemmatizer <https://www.virag.si/2013/12/solr-slovenian-lemmatizer-updated/>`_
+- `Slovenian part-of-speech tagger for Python/NLTK <https://github.com/izacus/slo_pos>`_
+
 |br|
 
 Državne baze podatkov
