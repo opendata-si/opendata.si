@@ -76,6 +76,7 @@ Slovenščina
 
 - `Solr Slovenian Lemmatizer <https://www.virag.si/2013/12/solr-slovenian-lemmatizer-updated/>`_
 - `Slovenian part-of-speech tagger for Python/NLTK <https://github.com/izacus/slo_pos>`_
+- `Slovenian Named Entity Extractor <https://github.com/tadejs/slner>`_
 
 |br|
 
