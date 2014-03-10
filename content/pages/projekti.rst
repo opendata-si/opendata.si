@@ -64,6 +64,7 @@ Geografski prikazi
 - `Structure ages in Ljubljana, Slovenia <http://www.virostatiq.com/data/ljubljana-building-ages/>`_ (`opis <http://virostatiq.com/structure-ages-in-ljubljana-slovenia/>`__)
 - `Sound pollution caused by church towers in Ljubljana <http://virostatiq.com/sound-pollution-caused-by-church-towers-in-ljubljana/>`_
 - `Where not to illegally park in Ljubljana <http://www.jurecuhalev.com/blog/2010/12/06/where-not-to-illegally-park-in-ljubljana/>`_
+- `Transformer station outages due to glaze ice <http://www.youtube.com/watch?v=4NoMSyPlvqI>`_ (`opis <http://www.tablix.org/~avian/blog/archives/2014/02/elektro_ljubljana_power_outages/>`__)
 
 Slovenščina
 -----------
