@@ -5,7 +5,7 @@
 
    <br />
 
-`Open data <http://en.wikipedia.org/wiki/Open_data>`_ mednarodni projekt je izvedba ideje, da smo za dolocen sklop podatkov lastniki vsi prebivalci Slovenije 
+`Open data <http://en.wikipedia.org/wiki/Open_data>`_ mednarodni projekt je izvedba ideje, da smo za določen sklop podatkov lastniki vsi prebivalci Slovenije 
 in so posledično podatki brez licence. Iz teh podatkov je nastalo nekaj projektov.
 
 
