@@ -1,3 +1,4 @@
+:title: Open Data Slovenija - odprti podatki v Sloveniji
 :url: /
 :save_as: index.html
 
