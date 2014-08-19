@@ -5,18 +5,23 @@ Install
 
 ::
 
-    git clone https://github.com/iElectric/opendata.si.git
-    cd opendata.si
-    virtualenv --no-site-packages .
-    source bin/activate
-    pip install pelican ghp-import
+    $ mkdir opendata.si
+    $ cd opendata.si
+
+    $ git clone https://github.com/opendata-si/opendata.si.git
+
+    $ virtualenv --no-site-packages .
+    $ source bin/activate
+
+    $ pip install -r opendata.si/requirements.txt
 
 Generate website
 ================
 
 ::
 
-    pelican -s pelican.conf.py
+    $ cd opendata.si
+    $ pelican -s pelican.conf.py
 
 Deploy
 ======
