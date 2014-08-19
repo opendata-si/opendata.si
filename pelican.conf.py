@@ -24,3 +24,4 @@ LINKS = (
 SOCIAL = (
 #    ('You can add links in your config file', '#'),
 )
+FEED_ALL_ATOM = None
