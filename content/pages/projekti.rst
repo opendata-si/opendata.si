@@ -38,10 +38,17 @@ Sodelujoči
 |br|
 
 
-Kontakt
-=======
+Kontakt (dopisni seznam)
+========================
 
 Želiš dodati svoj projekt na seznam? Ali pa mogoče posredovati informacijo o prosto dostopnih podatkih, ki bi mogoce bili primerni za nov projekt? Vabljen, da se nam pridružiš na poštnem seznamu podatki@lists.kiberpipa.org. Prijaviš se lahko `preko spleta <https://lists.kiberpipa.org/mailman/listinfo/podatki>`_.
+
+|br|
+
+Smernice za objavo podatkov
+===========================
+
+Pripravili smo `dokument s smernicami za objavo odprtih podatkov </smernice.html>`_.
 
 |br|
 
@@ -67,6 +74,13 @@ Geografski prikazi
 - `Where not to illegally park in Ljubljana <http://www.jurecuhalev.com/blog/2010/12/06/where-not-to-illegally-park-in-ljubljana/>`_
 - `Transformer station outages due to glaze ice <http://www.youtube.com/watch?v=4NoMSyPlvqI>`_ (`opis <http://www.tablix.org/~avian/blog/archives/2014/02/elektro_ljubljana_power_outages/>`__)
 
+Mobilne Aplikacije
+------------------
+Aplikacije uporabljajo podatke in API vmesnike iz zgoraj naštetih projektov.
+
+- `Bicikelj (Jernej Virag), Android <https://play.google.com/store/apps/details?id=si.virag.bicikelj>`_
+- `Promet (Jernej Virag), Android <https://play.google.com/store/apps/details?id=si.virag.promet>`_
+
 Slovenščina
 -----------
 
@@ -79,6 +93,7 @@ Drugo
 
 - `Festivals in Slovenia 2012 <http://www.culture.si/en/Festivals_in_Slovenia_2012>`_
 - `Social network diagrams of Slovenian governments between 1991 and 2013 <http://virostatiq.com/social-network-diagrams-of-slovenian-governments-between-2001-and-2013/>`_
+- `Uspeh šol na maturi v letu 2013, Aljaž Vindiš, Dnevnik <http://www.dnevnik.si/objektiv/vec-vsebin/matura>`_
 
 |br|
 
