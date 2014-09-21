@@ -27,6 +27,7 @@ Podatki
 V primeru, da imaš podatke, ki so v obliki enkratne baze, ti priporočamo da jih objaviš na kakšnem Github ali Bitbucket repozitoriju. S tem se boš izognil problemom z gostovanjem čez nekaj let. V primeru, da rabiš pomoč z gostovanjem se nam javi na listo in bomo uredili mirror.
 
 Za podatke je idealno, če:
+
 - So v obliki, ki je berljiva računalnikom (CSV, XLS, SQL, JSON ipd.), seveda z ozirom na uporabljeno tehnologijo in vrsto podatkov.
 - Imajo priložen opis sheme in stolpcev/polj.
 - Imajo priložen splošen opis podatkov z relevantnimi datumi (čas prenosa, časovni interval na katerega se nanašajo podatki).
@@ -41,6 +42,7 @@ API
 API lahko omogoča lažji dostop npr. mobilnim napravam do fiksnih podatkov ali pa predeluje druge strani (npr. HTML) v REST/JSON obliko s katero je iz mobilne aplikacije lažje delati.
 
 Za API je idealno, če:
+
 - Ima splošni opis ter metod, ki jih podpira,
 - podpira JSON(P)
 - vrača čas podatkov (torej kdaj so bili prenešeni iz izvora),
@@ -52,6 +54,6 @@ Za API je idealno, če:
 ZDIJZ
 =====
 
-V Sloveniji imamo zakon `Zakon o dostopu do informacij javnega značaja <https://www.ip-rs.si/informacije-javnega-znacaja/dostop-do-informacij/>`, ki omogoča, da določene informacije iz področja javne uprave zahtevaš v računalniško berljivi obliki. Zgornja povezava je dober vir začetnih informacij. V primeru vprašanj in težav pa se prav tako lahko javiš na naš dopisni seznam in morda ti bo lahko kdo pomagal.
+V Sloveniji imamo zakon `Zakon o dostopu do informacij javnega značaja <https://www.ip-rs.si/informacije-javnega-znacaja/dostop-do-informacij/>`_, ki omogoča, da določene informacije iz področja javne uprave zahtevaš v računalniško berljivi obliki. Zgornja povezava je dober vir začetnih informacij. V primeru vprašanj in težav pa se prav tako lahko javiš na naš dopisni seznam in morda ti bo lahko kdo pomagal.
 
 Ko enkrat pridobiš podatke na podlagi ZDIJZ, jih lahko v večini primerov javno objaviš, da ne bo potrebno naslednjemu razvijalcu še enkrat iti skozi postopek uradnega zahtevka.
