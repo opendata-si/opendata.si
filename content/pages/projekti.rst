@@ -93,7 +93,7 @@ Drugo
 
 - `Festivals in Slovenia 2012 <http://www.culture.si/en/Festivals_in_Slovenia_2012>`_
 - `Social network diagrams of Slovenian governments between 1991 and 2013 <http://virostatiq.com/social-network-diagrams-of-slovenian-governments-between-2001-and-2013/>`_
-- `Uspeh šol na maturi v letu 2013, Aljaž Vindiš, Dnevnik <http://www.dnevnik.si/objektiv/vec-vsebin/matura>`_
+- `Uspeh šol na maturi v letu 2013, Aljaž Vindiš, Dnevnik <http://www.dnevnik.si/slovenija/kam-vpisati-otroka>`_
 
 |br|
 
