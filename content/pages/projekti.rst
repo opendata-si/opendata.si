@@ -19,6 +19,7 @@ Projekti
 - `<https://github.com/mrfoto/bonar>`_ -- Ponudniki študentske prehrane na zemljevidu - http://www.bonar.si/
 - `<https://github.com/zejn/prometapi>`_ -- JSON API za nekatere prometne podatke, dostopne z različnih virov (parkirišča, bicikelj, burja, stanje na cestah)
 - `<https://github.com/zejn/arsoapi>`_ -- Geolokacijsko podprti JSON API za vremenske podatke, prebrane s strani `ARSO <http://www.arso.gov.si>`__
+- `<https://github.com/sebenik/sistat-api>`_ -- JSON API podatkovnega portala `SI-STAT <http://pxweb.stat.si/pxweb/dialog/statfile2.asp>`_ Staističnega urada Republike Slovenije.
 
 |br|
 
@@ -34,6 +35,7 @@ Sodelujoči
 - `Jure Čuhalev <http://www.jurecuhalev.com/blog/>`_
 - `Miha Rekar <http://mr.si/>`_
 - `Jernej Virag <https://www.virag.si/>`_
+- `Žiga Šebenik <http://www.sebenik.com/>`_
 
 |br|
 
