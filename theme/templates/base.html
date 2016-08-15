@@ -35,8 +35,8 @@
                             <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
                         {% endfor %}
                         {% endif %}
+                        </ul></nav>
                 {% endif %}
-                </ul></nav>
         </header><!-- /#banner -->
         {% block content %}
         {% endblock %}
