@@ -86,7 +86,7 @@ Aplikacije uporabljajo podatke in API vmesnike iz zgoraj naštetih projektov.
 Slovenščina
 -----------
 
-- `Solr Slovenian Lemmatizer <https://www.virag.si/2013/12/solr-slovenian-lemmatizer-updated/>`_
+- `Solr Slovenian Lemmatizer <https://www.virag.si/2013/12/solr-slovene-lemmatizer-updated-with-easier-installation/>`_
 - `Slovenian part-of-speech tagger for Python/NLTK <https://github.com/izacus/slo_pos>`_
 - `Slovenian Named Entity Extractor <https://github.com/tadejs/slner>`_
 - `Slovenski črkovalnik za GNU Aspell v Debian in Ubuntu <https://packages.qa.debian.org/a/aspell-sl.html>`_
