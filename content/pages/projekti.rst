@@ -86,9 +86,10 @@ Aplikacije uporabljajo podatke in API vmesnike iz zgoraj naštetih projektov.
 Slovenščina
 -----------
 
-- `Solr Slovenian Lemmatizer <https://www.virag.si/2013/12/solr-slovenian-lemmatizer-updated/>`_
+- `Solr Slovenian Lemmatizer <https://www.virag.si/2013/12/solr-slovene-lemmatizer-updated-with-easier-installation/>`_
 - `Slovenian part-of-speech tagger for Python/NLTK <https://github.com/izacus/slo_pos>`_
 - `Slovenian Named Entity Extractor <https://github.com/tadejs/slner>`_
+- `Slovenski črkovalnik za GNU Aspell v Debian in Ubuntu <https://packages.qa.debian.org/a/aspell-sl.html>`_
 
 Drugo
 -----
@@ -96,6 +97,7 @@ Drugo
 - `Festivals in Slovenia 2012 <http://www.culture.si/en/Festivals_in_Slovenia_2012>`_
 - `Social network diagrams of Slovenian governments between 1991 and 2013 <http://virostatiq.com/social-network-diagrams-of-slovenian-governments-between-2001-and-2013/>`_
 - `Uspeh šol na maturi v letu 2013, Aljaž Vindiš, Dnevnik <http://www.dnevnik.si/slovenija/kam-vpisati-otroka>`_
+- `Uporaba radijskih frekvenc v Sloveniji <https://www.tablix.org/~avian/blog/images2/2016/07/uporaba_radijskih_frekvenc_v_sloveniji_glede_na.png>`_ (`opis <https://www.tablix.org/~avian/blog/archives/2016/07/visualizing_frequency_allocations_in_slovenia/>`__)
 
 |br|
 
