@@ -90,7 +90,7 @@ Slovenščina
 - `Slovenian part-of-speech tagger for Python/NLTK <https://github.com/izacus/slo_pos>`_
 - `Slovenian Named Entity Extractor <https://github.com/tadejs/slner>`_
 - `Slovenski črkovalnik za GNU Aspell v Debian in Ubuntu <https://packages.qa.debian.org/a/aspell-sl.html>`_
-- `Web API za zapis števil/datumov/cifer z besedo <http://stevilazbesedo.sebenik.com>`_
+- `Node knjižnica za zapis števil/datumov/cifer z besedo <https://github.com/sebenik/stevila-z-besedo>`_
 
 Drugo
 -----
