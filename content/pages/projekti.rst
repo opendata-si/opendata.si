@@ -36,6 +36,7 @@ Sodelujoči
 - `Miha Rekar <http://mr.si/>`_
 - `Jernej Virag <https://www.virag.si/>`_
 - `Žiga Šebenik <http://www.sebenik.com/>`_
+- `Pedro Kostelec <http://www.pedro.si/>`_
 
 |br|
 
@@ -75,6 +76,8 @@ Geografski prikazi
 - `Sound pollution caused by church towers in Ljubljana <http://virostatiq.com/sound-pollution-caused-by-church-towers-in-ljubljana/>`_
 - `Where not to illegally park in Ljubljana <http://www.jurecuhalev.com/blog/2010/12/06/where-not-to-illegally-park-in-ljubljana/>`_
 - `Transformer station outages due to glaze ice <http://www.youtube.com/watch?v=4NoMSyPlvqI>`_ (`opis <http://www.tablix.org/~avian/blog/archives/2014/02/elektro_ljubljana_power_outages/>`__)
+- `Potential market size of karate clubs in Slovenia <https://medium.com/@pedro.kostelec/analyzing-the-potential-market-size-of-karate-clubs-in-slovenia-revision-i-95c9a6e12321>`_
+
 
 Mobilne aplikacije
 ------------------
