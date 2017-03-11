@@ -6,20 +6,21 @@
 
    <br />
 
-`Open data <http://en.wikipedia.org/wiki/Open_data>`_ mednarodni projekt je izvedba ideje, da smo za določen sklop podatkov lastniki vsi prebivalci Slovenije 
-in so posledično podatki brez licence. Iz teh podatkov je nastalo nekaj projektov.
+`Open data <http://en.wikipedia.org/wiki/Open_data>`_ mednarodni projekt je izvedba ideje, da smo
+za določen sklop podatkov lastniki vsi prebivalci države in so posledično podatki skupno dobro,
+ter zato dostopni širši publiki. Iz teh podatkov je nastalo nekaj projektov.
 
 
 Projekti
 ========
 
-- `<http://opendata.si/volitve/>`_ -- Interaktivna vizualizacija izida volitev v Državni zbor 2011 (posodabljana v živo)
-- `<http://www.delajozate.si/>`_ -- Spletna stran Državnega zbora, ustvarjena po meri navadnega državljana
 - `<https://github.com/opendata-si/trola.si>`_ -- Napoved prihodov LPP avtobusov - http://www.trola.si/
 - `<https://github.com/mrfoto/bonar>`_ -- Ponudniki študentske prehrane na zemljevidu - http://www.bonar.si/
 - `<https://github.com/zejn/prometapi>`_ -- JSON API za nekatere prometne podatke, dostopne z različnih virov (parkirišča, bicikelj, burja, stanje na cestah)
 - `<https://github.com/zejn/arsoapi>`_ -- Geolokacijsko podprti JSON API za vremenske podatke, prebrane s strani `ARSO <http://www.arso.gov.si>`__
 - `<https://github.com/sebenik/sistat-api>`_ -- JSON API podatkovnega portala `SI-STAT <http://pxweb.stat.si/pxweb/dialog/statfile2.asp>`_ Staističnega urada Republike Slovenije.
+- `<http://www.delajozate.si/>`_ -- Ena prvih neuradnih spletni strani Državnega zbora, ustvarjena po meri navadnega državljana. Delno navdih za kasnejše projekte, kot so Zakonodajni monitor (Projekt TI Slovenija, ne deluje več) in `Parlameter <https://parlameter.si/>`_, projekt Inštituta Danes je nov dan.
+- `<http://opendata.si/volitve/>`_ -- (odstranjeno) Interaktivna vizualizacija izida volitev v Državni zbor 2011 (posodabljana v živo)
 
 |br|
 
